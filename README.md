@@ -27,8 +27,3 @@ The dashboard consists of 3 pages:
 - Comparing funded amount and received amount provides a clearer picture of repayment performance.
 - Segmentation by state, loan purpose, term, and borrower profile reveals deeper lending patterns.
 - Monthly trends support monitoring of lending growth and portfolio changes over time.
-
-## Files
-- `Bank Loan Project.sql` — SQL queries for analysis
-- Dashboard screenshots
-- `Bank Loan Project.pbix` — Power BI dashboard file
